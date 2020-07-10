@@ -1,0 +1,2 @@
+# kurs
+Ein Kursverzeichnis
